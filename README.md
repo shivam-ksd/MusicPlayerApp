@@ -1,2 +1,1 @@
-Weather App is an App where you can know what is the weather,pressure,temperature,humidity of any city.You have to Enter a city only.It will show the temperature,pressureand humidity of that city.
-We  fetched the data from OpenWeatherMap's API and showed in the app.Temperature is in Kelvin. 
+Music Player App is an app where you can play songs that is in sd card or in phone memory. A song can be streamed online using this app. playist can be made in this app.
